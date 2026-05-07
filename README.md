@@ -1,4 +1,8 @@
-############################################################################# ERP-Analytics-Dashboard
+ <h1 align="center">ERP Analytics Dashboard</h1>
+
+<p align="center">
+  🌐 Portfolio: https://portfolio.sgscodeworks.in/
+</p>
 # 🌐 Portfolio: https://portfolio.sgscodeworks.in/
 # Objective 1:  
 You are required to manually enter at least two months of data into an Excel sheet, following the given column names for both Teachers and Students. Ensure that the data is structured properly and aligned with the specified format. This will help in creating a well-organized dataset for further analysis and dashboard development.  
